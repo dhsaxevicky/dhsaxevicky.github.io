@@ -12,10 +12,15 @@ h2{
 
 p{
   font-family: Cherry Swash,Architects Daughter;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 body {
    background-image: url("https://png.pngtree.com/element_origin_min_pic/16/10/24/7873380678c2334ab3a2c40be4c99097.jpg");
+   img {
+    max-width: 100%;
+    height: auto;
+   }
+
    background-color: #000000;
 }
